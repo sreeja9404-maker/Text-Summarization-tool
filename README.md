@@ -39,8 +39,7 @@ The selected sentences are combined to form the final summary.
 The summary length can be controlled by the user.
 The output is a short version of the original text with key information.
 
-1) Technologies Used:
-
+# TECHNOLOGIES USED:
 Python is used as the main programming language.
 NLTK is used for tokenization and stopword removal.
 Regular expressions are used for text cleaning.
@@ -49,3 +48,7 @@ The heapq module is used to select top sentences efficiently.
 
 This project is simple, efficient, and easy to understand.
 It is useful for summarizing articles, documents, and reports.
+
+# OUTPUT:
+
+<img width="818" height="91" alt="Image" src="https://github.com/user-attachments/assets/ae6efa95-2f8e-4a94-bde2-fd011d6a408f" />
